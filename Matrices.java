@@ -52,5 +52,8 @@ public class Matrices{
                 numero++;
             }
         }
+        //imprimiendo la matriz 2
+        System.out.println("Valores de la matriz irregular: ");
+        imprimirMatriz(matriz2);
     }
 }
